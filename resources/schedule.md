@@ -56,7 +56,7 @@
 | 04.24        | [Ribeiro, Ch 2](http://neuro.bstu.by/ai/To-dom/My_research/Papers-2.0/RL-tutorial/rlearn2.pdf)  												 | 			   | Reinforcement Learning 1			 |	[slides](http://grandmaster.colorado.edu/~cketelsen/files/csci5622/slides/lesson23.pdf)		|			| 
 | 04.26        | [Kaparthy](http://karpathy.github.io/2016/05/31/rl/)																							 | 			   | Reinforcement Learning 2			 |	[slides](http://grandmaster.colorado.edu/~cketelsen/files/csci5622/slides/lesson24.pdf)		|			| 
 | 04.28        | 				 | 			   | 									 |			|	| 
-| 05.01        | 				 | 			   | [Ethics and ML](http://grandmaster.colorado.edu/~cketelsen/files/csci5622/slides/lesson25.pdf) |			|			| 
+| 05.01        | 				 | |Ethics and ML			   | [slides](http://grandmaster.colorado.edu/~cketelsen/files/csci5622/slides/lesson25.pdf) 			|			| 
 | 05.03        | 				 | 			   | [Final Exam Review](https://github.com/chrisketelsen/courses/blob/master/csci5622/exam/final_info.md) |			| [Neural Net](https://github.com/chrisketelsen/courses/blob/master/csci5622/homework/neural_net/assign.md)			| 
 | 05.05        | 				 | 			   | 									 |			| [Project Writeup Due](https://github.com/chrisketelsen/courses/blob/master/csci5622/project/assign.md) 										   | 
 | 05.08        | 				 | 			   | 									 |			| [Project Video Due](https://github.com/chrisketelsen/courses/blob/master/csci5622/project/assign.md) 										   | 
