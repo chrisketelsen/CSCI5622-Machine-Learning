@@ -5,7 +5,7 @@
 	- BR = [Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.Online) by Barber 
 	- ISL = [Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/) by James et. al. 
 	- ESL = [Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/) by Hastie et. al. 
-- All in-class notebooks will be posted [here](https://github.com/chrisketelsen/csci5622notebooks) 
+- All in-class notebooks will be posted [here](https://github.com/chrisketelsen/CSCI5622-Machine-Learning/tree/master/in-class-notebooks)
 - Homework and project milestones are listed by **due date** 
 
 | Week | Date 		  | Reading          |  Optional   |                Topic             	 | Slides   | Hmwk  	| 
