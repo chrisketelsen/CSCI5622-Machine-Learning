@@ -8,9 +8,9 @@ The final project offers you an opportunity to apply machine learning techniques
 - **Group Formation Due**: Feb 2nd   
 - **Project Proposal Due**: Mar 2nd 
 - **Project Pitches**: Mar 5th 
-- **Peer Pitch Feedback Due**: Mar 12th  
+- **Project Pitch Peer Feedback Due**: Mar 12th  
 - **Midpoint Spotlight Due**: Apr 6th  
-- **Peer Spotlight Feedback Due**: Apr 11th  
+- **Midpoint Spotlight Peer Feedback Due**: Apr 11th  
 - **Final Project Poster Session**: May 2nd  
 - **Final Project Report**: May 4th  
 
