@@ -2,7 +2,7 @@
 
 ### Course Information 
 
-**Class Meeting Time**: MW 3-4:15am in ECCS 1B12 
+**Class Meeting Time**: MW 3-4:15pm in ECCS 1B12 
 
 **Office Hours**: MW 4:30-5:30pm in CSEL and Th 12:30-2pm in ECOT 731 or by appointment
 
