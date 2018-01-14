@@ -25,6 +25,11 @@ A good project should
 - can be formulated or partially addressed with machine learning techniques;
 - have a solution (ideally multiple solutions) that you can implement within the scope of this class.
 
+**Note**: We prefer projects that are technique and/or application driven. For example, a project could start with a group interested 
+in learning more about [adversarial neural networks](https://blog.openai.com/adversarial-example-research/) and how they could be used
+to thwart facial recognition systems.  What we do not prefer are Kaggle-based projects where a group decides chooses a dataset online
+and throws an unfocused kitchen sink at it.  Such projects will be met with intense scrutiny. 
+
 # Groups 
 
 You must form a group of 4-5 students enrolled in this course and make a post on Piazza with your names (use `#project_groups` to tag the post) by 11:59pm on Feb 2nd. Participation in brainstorming project ideas is a great way to find other students with similar interests. It is important to convince your peers that your idea has merit both in academia and in industry.
@@ -57,7 +62,7 @@ Prepare at most three slides to describe
 - What you have done so far
 - What kind of advice that you are seeking.
 
-Due to limited time, you will post your slides on Piazza using the tag '#project_spotlight' rather than giving a formal presentation. 
+Due to limited time, you will post your slides on Piazza using the tag `#project_spotlight` rather than giving a formal presentation. 
 
 # Midpoint Peer Feedback
 
