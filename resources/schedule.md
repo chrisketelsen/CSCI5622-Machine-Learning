@@ -34,7 +34,7 @@
 | 8    | 03.05        | [Burges](https://www.microsoft.com/en-us/research/publication/a-tutorial-on-support-vector-machines-for-pattern-recognition/) 4 				| 			           | The Kernel Trick 					 |	  	    |			| 
 |      | 03.07        | 				 | 			   | **Project Pitches**                 |	 		|			| 
 |      | 03.08        | 		         | 			   |                            		 |			| Theory	| 
-| 9    | 03.12        | 			     | 			   |  Review 							 |          |           | 
+| 9    | 03.12        | 			     | 			   |  Review 							 |          | Feedback  | 
 |      | 03.14        | 			     | 			   | **Midterm**  					     |			|			| 
 |      | 03.15        | 		         | 			   |                            		 |			|			| 
 | 10   | 03.19        | ISL 8.1   		 | ISL 8.2	   | Decision Trees						 |	        |          	| 
@@ -47,7 +47,7 @@
 |      | 04.04        | [Neilsen 2](http://neuralnetworksanddeeplearning.com/chap2.html) 																				 | 			           | Neural Networks 2					 |	 		|			| 
 |      | 04.05        | 		         | 			   |                            		 |			| ProgReport| 
 | 13   | 04.09        | 				 | 			   | Neural Networks 3                   |          |          |
-|      | 04.11        | [Ribeiro, Ch 2](http://neuro.bstu.by/ai/To-dom/My_research/Papers-2.0/RL-tutorial/rlearn2.pdf)  												 | 			           | Reinforcement Learning 1			 |			|         	| 
+|      | 04.11        | [Ribeiro, Ch 2](http://neuro.bstu.by/ai/To-dom/My_research/Papers-2.0/RL-tutorial/rlearn2.pdf)  												 | 			           | Reinforcement Learning 1			 |			| Feedback 	| 
 |      | 04.12        | 		         | 			   |                            		 |			| Boosting	| 
 | 14   | 04.16        | [Kaparthy](http://karpathy.github.io/2016/05/31/rl/)																							 | 			           | Reinforcement Learning 2			 |	        |           | 
 |      | 04.18        | [Ghahramani](http://mlg.eng.cam.ac.uk/zoubin/papers/ijprai.pdf) 																				 | 			           | Reinforcement Learning 3            |			|			| 
