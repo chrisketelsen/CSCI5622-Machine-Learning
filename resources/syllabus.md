@@ -29,6 +29,10 @@ We will use various free online sources throughout the semester:
 
 This term we will be using Piazza ([https://piazza.com/colorado/spring2018/csci5622](https://piazza.com/colorado/spring2018/csci5622))for class discussion. The system is highly catered to getting you help fast and efficiently from classmates, the grader, and the instructor. **Rather than emailing me questions, I request that you to post your questions on Piazza**.  If your question is of a private nature, Piazza allows you to send me a private message. It is your responsibility to check the web page on a regular basis. Here you will find detailed information such as news, homework assignments and solutions, and instructor office hours. 
 
+### Distance Degree Access 
+
+Students enrolled in the distance section of CSCI 5622 that wish to join the lecture synchronously should use the Zoom Meeting ID 244-684-814. 
+
 ### Computing
 
 We will make extensive use of the Python 3 and Jupyter Notebooks. It is estimated that around 50% of practicing data scientists do most of their analysis using Python (while the other roughly 50% use R, which we shall not speak of).  The Jupyter Notebook is a browser-based programming environment that allows you to seamlessly mix Python code (as well as many other languages), graphics, and exposition (in Markdown).  The Jupyter Notebook has become ubiquitous in the data science community for rapidly prototyping ideas and sharing them with colleagues and the rest of the world.  
