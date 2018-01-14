@@ -84,7 +84,7 @@ This poster session will last roughly one and a half hours. Course staff and gue
 
 # Final report
 
-The final report is due on May 4th on Moodle. List group members in the report and sort the name alphabetically. You report should explain what you did and what results you achieved. This document should make it clear:
+The final report is due on May 4th by 11:59pm on Moodle. List group members in the report and sort the name alphabetically. You report should explain what you did and what results you achieved. This document should make it clear:
 
 - Why this project is a good (or bad) idea,
 - What you did,
