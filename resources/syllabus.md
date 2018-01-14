@@ -59,16 +59,16 @@ amount of data are not permitted.
 
 **Semester Project**: You will complete a semester-long group project (in groups of 4-5) that
 investigates an advanced Machine Learning technique and/or application of interest to you. Details about the semester
-project and import **milestones** will be posted soon. 
+project and import **milestones** can be found [here](https://github.com/chrisketelsen/CSCI5622-Machine-Learning/blob/master/resources/project.md).
 
 ### Grade Determination 
 
 The overall grades will be based on a cumulative score computed from 
 
-* The homework (40% of the grade)
+* The homework (35% of the grade)
 * The reading quizzes (10% of the grade)
 * The midterm exam (25% of the grade)
-* The semester project (25% of the grade)
+* The semester project (30% of the grade)
 
 Unless adjustments are necessary, letter grades will be assigned using the standard grading scale: 
 
