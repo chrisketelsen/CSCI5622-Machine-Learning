@@ -111,10 +111,10 @@ Tips for a good report:
 # Grade Distribution 
 
 - Proposal: 10% 
-- Proposal peer feedback: 10% 
+- Proposal peer feedback: 5% 
 - Midpoint spotlight: 10% 
-- Midpoint spotlight peer feedback: 10% 
-- Poster and Presentation: 10% 
+- Midpoint spotlight peer feedback: 5% 
+- Poster and Presentation: 20% 
 - Final Report: 50% 
 
 
