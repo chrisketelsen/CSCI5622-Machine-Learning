@@ -45,13 +45,13 @@
 |      | 03.29        | 		         | 			   |                            		 |			|			| 
 | 12   | 04.02        | [Neilsen 1](http://neuralnetworksanddeeplearning.com/chap1.html) 																				 | 			           | Neural Networks 1					 |          |           | 
 |      | 04.04        | [Neilsen 2](http://neuralnetworksanddeeplearning.com/chap2.html) 																				 | 			           | Neural Networks 2					 |	 		|			| 
-|      | 04.05        | 		         | 			   |                            		 |			|			| 
+|      | 04.05        | 		         | 			   |                            		 |			| ProgReport| 
 | 13   | 04.09        | 				 | 			   | Neural Networks 3                   |          |          |
 |      | 04.11        | [Ribeiro, Ch 2](http://neuro.bstu.by/ai/To-dom/My_research/Papers-2.0/RL-tutorial/rlearn2.pdf)  												 | 			           | Reinforcement Learning 1			 |			|         	| 
 |      | 04.12        | 		         | 			   |                            		 |			| Boosting	| 
 | 14   | 04.16        | [Kaparthy](http://karpathy.github.io/2016/05/31/rl/)																							 | 			           | Reinforcement Learning 2			 |	        |           | 
 |      | 04.18        | [Ghahramani](http://mlg.eng.cam.ac.uk/zoubin/papers/ijprai.pdf) 																				 | 			           | Reinforcement Learning 3            |			|			| 
-|      | 04.19        | 		         | 			   |                            		 |			| ProgReport| 
+|      | 04.19        | 		         | 			   |                            		 |			|           | 
 | 15   | 04.23        | 				 |  		   | K-Means/GMMs                        |			|			| 
 |      | 04.25        | 				 | 			   | Topic Modeling						 |	        |			| 
 |      | 04.26        | 		         | 			   |                            		 |			| NeuralNets| 
