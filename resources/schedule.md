@@ -56,7 +56,7 @@
 |      | 04.25        | 				 | 			   | Topic Modeling						 |	        |			| 
 |      | 04.27        | 		         | 			   |                            		 |			| NeuralNets| 
 | 16   | 04.30        | 				 | 			   | Ethics and ML                       |			|			| 
-|      | 05.02        | 				 | 			   | **Poster Session**                  |			|           |
+|      | 05.02        | 				 | 			   | [Poster Session](https://github.com/chrisketelsen/CSCI5622-Machine-Learning/blob/master/resources/project.md#final-poster-presentation)                  |			|           |
 |      | 05.04        | 				 | 			   |  					                 |			| [Report](https://github.com/chrisketelsen/CSCI5622-Machine-Learning/blob/master/resources/project.md#final-report)    |
 
 
