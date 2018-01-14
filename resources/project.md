@@ -94,13 +94,13 @@ We will use the NIPS format. You can download the LaTex template [here](https://
 
 The final report will be evaluated based on the following aspects:
 
-- Writeup: Does the writeup explain what you did in a way that is clear and effective?
+- **Writeup**: Does the writeup explain what you did in a way that is clear and effective?
 
-- Technical Soundness: Did you use the appropriate tools for the problem? Were they relevant to this class?
+- **Technical Soundness**: Did you use the appropriate tools for the problem? Were they relevant to this class?
 
-- Effort: The amount of effort that you spend in the process.
+- **Effort**: The amount of effort that you spend in the process.
 
-- Performance: How did your techniques perform?
+- **Performance**: How did your techniques perform?
 
 Tips for a good report: 
 
