@@ -31,8 +31,8 @@
 | 7    | 02.26        | [Burges](https://www.microsoft.com/en-us/research/publication/a-tutorial-on-support-vector-machines-for-pattern-recognition/) 1, 3.1-3.2 		  |	     	           | Hard-Margin SVMs 	                 |          |           | 
 |      | 02.28        | [Burges](https://www.microsoft.com/en-us/research/publication/a-tutorial-on-support-vector-machines-for-pattern-recognition/) 3.4 													 | [Platt](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/smo-book.pdf)		          | Soft-Margin SVMs    				| 	 	   |           | 
 |      | 03.02        | 		         | 			   |                            		 |			| Proposal	| 
-| 8    | 03.05        | [Burges](https://www.microsoft.com/en-us/research/publication/a-tutorial-on-support-vector-machines-for-pattern-recognition/) 4 				| 			           | The Kernel Trick 					 |	  	    |			| 
-|      | 03.07        | 				 | 			   | **Project Pitches**                 |	 		|			| 
+| 8    | 03.05        | 				 | 			   | **Project Pitches**                 |	 		|			| 
+|      | 03.07        | [Burges](https://www.microsoft.com/en-us/research/publication/a-tutorial-on-support-vector-machines-for-pattern-recognition/) 4 				| 			           | The Kernel Trick 					 |	  	    |			| 
 |      | 03.09        | 		         | 			   |                            		 |			| Theory	| 
 | 9    | 03.12        | 			     | 			   |  Review 							 |          | Feedback  | 
 |      | 03.14        | 			     | 			   | **Midterm**  					     |			|			| 
