@@ -26,7 +26,7 @@ A good project should
 - have a solution (ideally multiple solutions) that you can implement within the scope of this class.
 
 **Note**: We prefer projects that are technique and/or application driven. For example, a project could start with a group interested 
-in learning more about [adversarial neural networks](https://blog.openai.com/adversarial-example-research/) and evolves to investigate how they could be used to thwart facial recognition systems.  What we **do not** prefer are Kaggle-based projects where a group chooses a dataset online and throws an unfocused kitchen sink at it.  Such projects will be met with intense scrutiny and multiple raised eyebrows. 
+in learning more about [adversarial neural networks](https://blog.openai.com/adversarial-example-research/) and evolve to investigate how they could be used to thwart facial recognition systems.  What we **do not** prefer are Kaggle-based projects where a group chooses a dataset online and throws an unfocused kitchen sink at it.  Such projects will be met with intense scrutiny and multiple raised eyebrows. 
 
 # Groups 
 
@@ -45,7 +45,7 @@ A good proposal should
 
 # Peer Feedback for Project Proposal
 
-Each student will provide feedback to one project from other groups in the Follow-up Discussion section of the associated Piazza post by 11:59pm on Oct 25. The feedback should use the following template:
+Each student will provide feedback to one project from other groups in the Follow-up Discussion section of the associated Piazza post by 11:59pm on Mar 12th. The feedback should use the following template:
 
 - What I like about this proposal
 - What I would have done differently (practical constructive feedback for improvements)
