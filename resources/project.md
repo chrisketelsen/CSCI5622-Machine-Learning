@@ -27,7 +27,7 @@ A good project should
 
 # Groups 
 
-You must form a group of 4-5 students enrolled in this course and make a post on Piazza with your names (use `project_groups` to tag the post) by 11:59pm on Feb 2nd. Participation in brainstorming project ideas is a great way to find other students with similar interests. It is important to convince your peers that your idea has merit both in academia and in industry.
+You must form a group of 4-5 students enrolled in this course and make a post on Piazza with your names (use `#project_groups` to tag the post) by 11:59pm on Feb 2nd. Participation in brainstorming project ideas is a great way to find other students with similar interests. It is important to convince your peers that your idea has merit both in academia and in industry.
 
 # Final Project Proposal 
 
