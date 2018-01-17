@@ -11,9 +11,9 @@
 | Week | Date 		  | Reading          |  Optional   |                Topic             	 | Slides   | RQ | Hmwk  	| 
 |:----:|:------------:| :---------------:|:-----------:|:-----------------------------------:|:--------:|:--:|:--------:|
 | 1    | 01.15        | 		         | 			   | MLK DAY -- **NO CLASS**			 |			|	 |	   	    | 
-|      | 01.17        | BR 14.1-14.2	 | BR 1.1-1.2  | ML Intro / KNN						 |	        |    |          | 
+|      | 01.17        | BR 14.1-14.2	 | BR 1.1-1.2  | ML Intro / KNN						 | [slides](cs.colorado.edu/~ketelsen/files/courses/csci5622/slides/lesson01.pdf)	        |    |          | 
 |      | 01.19        | 		         | 			   |                            		 |			|	 |		    | 
-| 2    | 01.22        | BR 10.1-10.2     | BR 1.3      | Naive Bayes 						 |	        |    |          | 
+| 2    | 01.22        | BR 10.1-10.2     | BR 1.3      | Naive Bayes 						 | 	        |    |          | 
 |      | 01.24        | ISL 4.1-4.3      | [Elkan](http://cseweb.ucsd.edu/~elkan/250B/logreg.pdf)/[N&J](http://ai.stanford.edu/~ang/papers/nips01-discriminativegenerative.pdf)     | Logistic Regression			                    |	       |	|          | 
 |      | 01.26        | 		         | 			   |                            		 |			|    | [KNN](https://github.com/chrisketelsen/CSCI5622-Machine-Learning/blob/master/hmwk/knn/knn.ipynb)		| 
 | 3    | 01.29        | [Elkan](http://cseweb.ucsd.edu/~elkan/250B/logreg.pdf)      |[Ruder](http://sebastianruder.com/optimizing-gradient-descent/)									         | Stochastic Gradient Descent 		                 |          |    |          | 
