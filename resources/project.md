@@ -123,7 +123,9 @@ Tips for a good report:
 # Excellent Projects from Previous Semesters 
 
 [FlapPyBI/0](https://www.youtube.com/watch?v=H4WnRLEG73Q&feature=youtu.be)
+
 [Variants of LSTM Architecture](https://youtu.be/YP45X-LT29o)
+
 [Guaranteed Training of Neural Networks using Tensor Methods](https://www.youtube.com/watch?v=V_5lo6T0YZI)
 
 
