@@ -126,7 +126,7 @@ Tips for a good report:
 
 [Variants of LSTM Architecture](https://youtu.be/YP45X-LT29o)
 
-[Guaranteed Training of Neural Networks using Tensor Methods](https://www.youtube.com/watch?v=V_5lo6T0YZI)
+[Policy and Value Networks for Playing Go](https://www.youtube.com/watch?v=H3ns1JMp5_o&feature=youtu.be)
 
 
 
