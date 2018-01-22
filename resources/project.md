@@ -120,6 +120,13 @@ Tips for a good report:
 - Poster and Presentation: 20% 
 - Final Report: 50% 
 
+# Excellent Projects from Previous Semesters 
+
+[FlapPyBI/0](https://www.youtube.com/watch?v=H4WnRLEG73Q&feature=youtu.be)
+
+[Variants of LSTM Architecture](https://youtu.be/YP45X-LT29o)
+
+[Policy and Value Networks for Playing Go](https://www.youtube.com/watch?v=H3ns1JMp5_o&feature=youtu.be)
 
 
 

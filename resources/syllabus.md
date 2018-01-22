@@ -4,7 +4,7 @@
 
 **Class Meeting Time**: MW 3-4:15pm in ECCS 1B12 
 
-**Office Hours**: MW 4:30-5:30pm in CSEL and Th 12:30-2pm in ECOT 731 or by appointment
+**Office Hours**: MW 4:30-5:30pm and Th 12:30-2pm in ECOT 731 or by appointment
 
 ### Course Description 
 
@@ -23,7 +23,7 @@ We will use various free online sources throughout the semester:
 
 - [Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.Online) by Barber 
 - [Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/) by James et. al. 
-- [Elements of Statistical Learning](https://statweb.stanford.edu/~tibs/ElemStatLearn/) by Hastie et. al. 
+- [Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/) by Hastie et. al. 
 
 ### Course Web Page 
 
