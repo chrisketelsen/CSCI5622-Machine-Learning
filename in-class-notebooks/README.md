@@ -1,11 +1,12 @@
 ### CSCI 5622 - Machine Learning - In-Class Notebooks
 ***
 
-<!---
 
 If you would like to view a notebook as a static page, I recommend using the links provided below to the view the page through nbviewer.  The MathJax rendering through GitHub can be kinda janky sometimes.  
 
-[02_Naive_Bayes](https://github.com/chrisketelsen/csci5622notebooks/blob/master/02_Naive_Bayes.ipynb)
+[02_Naive_Bayes](http://nbviewer.jupyter.org/github/chrisketelsen/CSCI5622-Machine-Learning/blob/master/in-class-notebooks/02_Naive_Bayes.ipynb)
+
+<!---
 
 
 [03_Logistic_Regression_and_Text_Models](http://nbviewer.jupyter.org/github/chrisketelsen/csci5622notebooks/blob/master/03_Logistic_Regression_and_Text_Models.ipynb)
