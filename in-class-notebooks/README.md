@@ -7,7 +7,7 @@ If you would like to view a notebook as a static page, I recommend using the lin
 [02_Naive_Bayes](http://nbviewer.jupyter.org/github/chrisketelsen/CSCI5622-Machine-Learning/blob/master/in-class-notebooks/02_Naive_Bayes.ipynb), [solutions](http://nbviewer.jupyter.org/github/chrisketelsen/CSCI5622-Machine-Learning/blob/master/in-class-notebooks/02_Naive_Bayes_Solutions.ipynb)
 
 
-[03_Logistic_Regression_and_Text_Models](http://nbviewer.jupyter.org/github/chrisketelsen/CSCI5622-Machine-Learning/blob/master/in-class-notebooks/03_Logistic_Regression_and_Text_Models.ipynb?flush_cache=True)
+[03_Logistic_Regression_and_Text_Models](http://nbviewer.jupyter.org/github/chrisketelsen/CSCI5622-Machine-Learning/blob/master/in-class-notebooks/03_Logistic_Regression_and_Text_Models.ipynb?flush_cache=True), [solutions](http://nbviewer.jupyter.org/github/chrisketelsen/CSCI5622-Machine-Learning/blob/master/in-class-notebooks/03_Logistic_Regression_and_Text_Models_Solutions.ipynb?flush_cache=True)
 
 
 [04_Stochastic_Gradient_Descent](http://nbviewer.jupyter.org/github/chrisketelsen/CSCI5622-Machine-Learning/blob/master/in-class-notebooks/04_Stochastic_Gradient_Descent.ipynb)
