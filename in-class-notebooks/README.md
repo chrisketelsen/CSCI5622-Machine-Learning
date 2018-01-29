@@ -10,7 +10,7 @@ If you would like to view a notebook as a static page, I recommend using the lin
 [03_Logistic_Regression_and_Text_Models](http://nbviewer.jupyter.org/github/chrisketelsen/CSCI5622-Machine-Learning/blob/master/in-class-notebooks/03_Logistic_Regression_and_Text_Models.ipynb?flush_cache=True)
 
 
-[04_Stochastic_Gradient_Descent](https://github.com/chrisketelsen/CSCI5622-Machine-Learning/blob/master/in-class-notebooks/04_Stochastic_Gradient_Descent.ipynb)
+[04_Stochastic_Gradient_Descent](http://nbviewer.jupyter.org/github/chrisketelsen/CSCI5622-Machine-Learning/blob/master/in-class-notebooks/04_Stochastic_Gradient_Descent.ipynb)
 
 <!---
 
