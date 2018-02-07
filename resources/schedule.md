@@ -20,7 +20,7 @@
 |      | 01.31        | [Ruder](http://sebastianruder.com/optimizing-gradient-descent/)			 																	      | 			         | Momentum and Multi-class                          |	[slides](https://www.cs.colorado.edu/~ketelsen/files/courses/csci5622/slides/lesson05.pdf)		|    |			| 
 |      | 02.02        | 		         | 			   |                            		 |			|    | [Groups](https://github.com/chrisketelsen/CSCI5622-Machine-Learning/blob/master/resources/project.md#groups)	| 
 | 4    | 02.05        | ISL 5.1		     | [Fawcett](http://people.inf.elte.hu/kiss/13dwhdm/roc.pdf)																				             | Validation / Eval Metrics 			             | [slides](https://www.cs.colorado.edu/~ketelsen/files/courses/csci5622/slides/lesson06.pdf)         | [RQ](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=21795)    |			| 
-|      | 02.07        | 				 | 			   | Feature Engineering 				 |	 		|    |			| 
+|      | 02.07        | 				 | 			   | Feature Engineering 				 | [nbk](https://github.com/chrisketelsen/CSCI5622-Machine-Learning/tree/master/in-class-notebooks)	 		| [RQ](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=21831)   |			| 
 |      | 02.09        | 		         | 			   |                            		 |			|    | [LogReg](https://github.com/chrisketelsen/CSCI5622-Machine-Learning/blob/master/hmwk/logreg/logreg.ipynb)	| 
 | 5    | 02.12        | ESL 3.1-3.2	 | 			       | Regression 			      		 |          |    |          | 
 |      | 02.14        | ESL 3.4		 |                 | Regularization						 |          |    |			| 
