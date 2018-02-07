@@ -18,10 +18,13 @@ If you would like to view a notebook as a static page, I recommend using the lin
 
 [06_Validation_Evaluation_Metrics](http://nbviewer.jupyter.org/github/chrisketelsen/CSCI5622-Machine-Learning/blob/master/in-class-notebooks/06_Validation_Evaluation_Metrics.ipynb), [solutions](http://nbviewer.jupyter.org/github/chrisketelsen/CSCI5622-Machine-Learning/blob/master/in-class-notebooks/06_Validation_Evaluation_Metrics_Solutions.ipynb)
 
+[07_Feature_Engineering](http://nbviewer.jupyter.org/github/chrisketelsen/CSCI5622-Machine-Learning/blob/master/in-class-notebooks/07_Feature_Engineering.ipynb)
+
 <!---
 
+, [solutions](http://nbviewer.jupyter.org/github/chrisketelsen/CSCI5622-Machine-Learning/blob/master/in-class-notebooks/07_Feature_Engineering_Solutions.ipynb)
 
-[07_The_Kernel_Trick_and_HyperParameter_Tuning](http://nbviewer.jupyter.org/github/chrisketelsen/csci5622notebooks/blob/master/07_Kernel_Trick_and_HyperParam_Tuning.ipynb)
+
 
 [10_Linear_Regression_Bias_Variance_Trade_Off](http://nbviewer.jupyter.org/github/chrisketelsen/csci5622notebooks/blob/master/10_Linear_Regression_Bias_Variance.ipynb)
 
