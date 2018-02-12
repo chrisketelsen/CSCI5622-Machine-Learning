@@ -22,7 +22,7 @@
 | 4    | 02.05        | ISL 5.1		     | [Fawcett](http://people.inf.elte.hu/kiss/13dwhdm/roc.pdf)																				             | Validation / Eval Metrics 			             | [slides](https://www.cs.colorado.edu/~ketelsen/files/courses/csci5622/slides/lesson06.pdf)         | [RQ](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=21795)    |			| 
 |      | 02.07        | 				 | 			   | Feature Engineering 				 | [nbk](https://github.com/chrisketelsen/CSCI5622-Machine-Learning/tree/master/in-class-notebooks)	 		| [RQ](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=21831)   |			| 
 |      | 02.09        | 		         | 			   |                            		 |			|    | [LogReg](https://github.com/chrisketelsen/CSCI5622-Machine-Learning/blob/master/hmwk/logreg/logreg.ipynb)	| 
-| 5    | 02.12        | ESL 3.1-3.2	 | 			       | Regression + Bias-Variance	   		 | [slides](https://www.cs.colorado.edu/~ketelsen/files/courses/csci5622/slides/lesson08.pdf)        |    |          | 
+| 5    | 02.12        | ESL 3.1-3.2	 | 			       | Regression + Bias-Variance	   		 | [slides](https://www.cs.colorado.edu/~ketelsen/files/courses/csci5622/slides/lesson08.pdf)        | [RQ](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=21918)   |          | 
 |      | 02.14        | ESL 3.4		 |                 | Regularization						 |          |    |			| 
 |      | 02.16        | 		         | 			   |                            		 |			|    |			| 
 | 6    | 02.19        | [Mohri 2](https://piazza.com/class_profile/get_resource/ixrtksejs0v6pp/izbrfxujamyrv)   														         | 			   | Learning Theory Part 1			                     |          |    |          | 
