@@ -22,6 +22,8 @@ If you would like to view a notebook as a static page, I recommend using the lin
 
 [08_Regression_Bias_Variance](http://nbviewer.jupyter.org/github/chrisketelsen/CSCI5622-Machine-Learning/blob/master/in-class-notebooks/08_Regression_Bias_Variance.ipynb)
 
+[09_Regularization](http://nbviewer.jupyter.org/github/chrisketelsen/CSCI5622-Machine-Learning/blob/master/in-class-notebooks/09_Regularization.ipynb)
+
 <!---
 
 , [solutions](http://nbviewer.jupyter.org/github/chrisketelsen/CSCI5622-Machine-Learning/blob/master/in-class-notebooks/07_Feature_Engineering_Solutions.ipynb)
