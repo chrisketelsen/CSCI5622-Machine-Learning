@@ -23,7 +23,7 @@
 |      | 02.07        | 				 | 			   | Feature Engineering 				 | [nbk](https://github.com/chrisketelsen/CSCI5622-Machine-Learning/tree/master/in-class-notebooks)	 		| [RQ](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=21831)   |			| 
 |      | 02.09        | 		         | 			   |                            		 |			|    | [LogReg](https://github.com/chrisketelsen/CSCI5622-Machine-Learning/blob/master/hmwk/logreg/logreg.ipynb)	| 
 | 5    | 02.12        | ESL 3.1-3.2	 | 			       | Regression + Bias-Variance	   		 | [slides](https://www.cs.colorado.edu/~ketelsen/files/courses/csci5622/slides/lesson08.pdf)        | [RQ](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=21918)   |          | 
-|      | 02.14        | ESL 3.4		 |                 | Regularization						 |          |    |			| 
+|      | 02.14        | ESL 3.4		 |                 | Regularization						 | [slides](https://www.cs.colorado.edu/~ketelsen/files/courses/csci5622/slides/lesson09.pdf)          |    |			| 
 |      | 02.16        | 		         | 			   |                            		 |			|    |			| 
 | 6    | 02.19        | [Mohri 2](https://piazza.com/class_profile/get_resource/ixrtksejs0v6pp/izbrfxujamyrv)   														         | 			   | Learning Theory Part 1			                     |          |    |          | 
 |      | 02.21        | [Mohri 3.2-3.3](https://piazza.com/class_profile/get_resource/ixrtksejs0v6pp/izbrfxujamyrv) 														     | 			   | Learning Theory Part 2				                 |	  		|    |			| 
