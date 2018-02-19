@@ -20,9 +20,11 @@ If you would like to view a notebook as a static page, I recommend using the lin
 
 [07_Feature_Engineering](http://nbviewer.jupyter.org/github/chrisketelsen/CSCI5622-Machine-Learning/blob/master/in-class-notebooks/07_Feature_Engineering.ipynb), [solutions](http://nbviewer.jupyter.org/github/chrisketelsen/CSCI5622-Machine-Learning/blob/master/in-class-notebooks/07_Feature_Engineering_Solutions.ipynb)
 
-[08_Regression_Bias_Variance](http://nbviewer.jupyter.org/github/chrisketelsen/CSCI5622-Machine-Learning/blob/master/in-class-notebooks/08_Regression_Bias_Variance.ipynb)
+[08_Regression_Bias_Variance](http://nbviewer.jupyter.org/github/chrisketelsen/CSCI5622-Machine-Learning/blob/master/in-class-notebooks/08_Regression_Bias_Variance.ipynb), [solutions](http://nbviewer.jupyter.org/github/chrisketelsen/CSCI5622-Machine-Learning/blob/master/in-class-notebooks/08_Regression_Bias_Variance_Solutions.ipynb)
 
-[09_Regularization](http://nbviewer.jupyter.org/github/chrisketelsen/CSCI5622-Machine-Learning/blob/master/in-class-notebooks/09_Regularization.ipynb?flush=True)
+[09_Regularization](http://nbviewer.jupyter.org/github/chrisketelsen/CSCI5622-Machine-Learning/blob/master/in-class-notebooks/09_Regularization.ipynb?flush=True), [solutions](http://nbviewer.jupyter.org/github/chrisketelsen/CSCI5622-Machine-Learning/blob/master/in-class-notebooks/09_Regularization_Solutions.ipynb?flush=True)
+
+[10_PAC_Learnability](http://nbviewer.jupyter.org/github/chrisketelsen/CSCI5622-Machine-Learning/blob/master/in-class-notebooks/10_PAC_Learnability.ipynb?flush=True)
 
 <!---
 
