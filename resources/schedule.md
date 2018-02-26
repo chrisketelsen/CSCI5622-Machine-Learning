@@ -33,7 +33,7 @@
 |      | 03.02        | 		         | 			   |                            		 |			|    | [Proposal](https://github.com/chrisketelsen/CSCI5622-Machine-Learning/blob/master/resources/project.md#final-project-proposal)	| 
 | 8    | 03.05        | 				 | 			   | **Project Pitches**                 |	 		|    |			| 
 |      | 03.07        | [Burges](https://www.microsoft.com/en-us/research/publication/a-tutorial-on-support-vector-machines-for-pattern-recognition/) 4 				| 			             | The Kernel Trick 					             |	  	    |    |			| 
-|      | 03.09        | 		         | 			   |                            		 |			|    | Theory	| 
+|      | 03.09        | 		         | 			   |                            		 |			|    | [Theory](https://github.com/chrisketelsen/CSCI5622-Machine-Learning/blob/master/hmwk/theory/theory.ipynb)	| 
 | 9    | 03.12        | 			     | 			   |  Review 							 |          |    | [Feedback](https://github.com/chrisketelsen/CSCI5622-Machine-Learning/blob/master/resources/project.md#peer-feedback-for-project-proposal)  | 
 |      | 03.14        | 			     | 			   | **Midterm**  					     |			|	 |	     	| 
 |      | 03.16        | 		         | 			   |                            		 |			|	 |		    | 
