@@ -24,7 +24,7 @@ If you would like to view a notebook as a static page, I recommend using the lin
 
 [09_Regularization](http://nbviewer.jupyter.org/github/chrisketelsen/CSCI5622-Machine-Learning/blob/master/in-class-notebooks/09_Regularization.ipynb?flush=True), [solutions](http://nbviewer.jupyter.org/github/chrisketelsen/CSCI5622-Machine-Learning/blob/master/in-class-notebooks/09_Regularization_Solutions.ipynb?flush=True)
 
-[10_PAC_Learnability](http://nbviewer.jupyter.org/github/chrisketelsen/CSCI5622-Machine-Learning/blob/master/in-class-notebooks/10_PAC_Learnability.ipynb?flush=True)
+[10_PAC_Learnability](http://nbviewer.jupyter.org/github/chrisketelsen/CSCI5622-Machine-Learning/blob/master/in-class-notebooks/10_PAC_Learnability.ipynb?flush=True), [solutions](http://nbviewer.jupyter.org/github/chrisketelsen/CSCI5622-Machine-Learning/blob/master/in-class-notebooks/10_PAC_Learnability_Solutions.ipynb?flush=True)
 
 <!---
 
