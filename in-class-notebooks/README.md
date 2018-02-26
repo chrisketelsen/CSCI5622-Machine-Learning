@@ -28,6 +28,8 @@ If you would like to view a notebook as a static page, I recommend using the lin
 
 [11_VC_Dimension](http://nbviewer.jupyter.org/github/chrisketelsen/CSCI5622-Machine-Learning/blob/master/in-class-notebooks/11_VC_Dimension.ipynb?flush=True)
 
+[12_Hard_Margin_SVMs](http://nbviewer.jupyter.org/github/chrisketelsen/CSCI5622-Machine-Learning/blob/master/in-class-notebooks/12_Hard_Margin_SVMs.ipynb?flush=True)
+
 <!---
 
 , [solutions](http://nbviewer.jupyter.org/github/chrisketelsen/CSCI5622-Machine-Learning/blob/master/in-class-notebooks/07_Feature_Engineering_Solutions.ipynb)
