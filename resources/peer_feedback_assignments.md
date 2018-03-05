@@ -9,10 +9,10 @@
 | Juan Lin | CopterBot |
 | Sayali Sonawane | CopterBot |
 | Ajay Kedia | CopterBot |
-| Warren Ferrell | Defect Detection |
-| Mitch Fulton | Defect Detection |
-| Kwan Ho Lee | Defect Detection |
-| Amith Gopal | Defect Detection |
+| Warren Ferrell | Defect Identification |
+| Mitch Fulton | Defect Identification |
+| Kwan Ho Lee | Defect Identification |
+| Amith Gopal | Defect Identification |
 | Chris Hitte | Disease Classification |
 | Tian Zhang | Disease Classification |
 | Mary Letey | Disease Classification |
