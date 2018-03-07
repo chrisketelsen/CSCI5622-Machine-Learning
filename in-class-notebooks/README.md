@@ -30,7 +30,7 @@ If you would like to view a notebook as a static page, I recommend using the lin
 
 [12_Hard_Margin_SVMs](http://nbviewer.jupyter.org/github/chrisketelsen/CSCI5622-Machine-Learning/blob/master/in-class-notebooks/12_Hard_Margin_SVMs.ipynb?flush=True), [solutions](http://nbviewer.jupyter.org/github/chrisketelsen/CSCI5622-Machine-Learning/blob/master/in-class-notebooks/12_Hard_Margin_SVMs_Solutions.ipynb?flush=True)
 
-[13_Soft_Margin_SVMs](http://nbviewer.jupyter.org/github/chrisketelsen/CSCI5622-Machine-Learning/blob/master/in-class-notebooks/13_Soft_Margin_SVM.ipynb?flush=True), [Solutions](http://nbviewer.jupyter.org/github/chrisketelsen/CSCI5622-Machine-Learning/blob/master/in-class-notebooks/13_Soft_Margin_SVM_Solutions.ipynb?flush=True)
+[13_Soft_Margin_SVMs](http://nbviewer.jupyter.org/github/chrisketelsen/CSCI5622-Machine-Learning/blob/master/in-class-notebooks/13_Soft_Margin_SVM.ipynb?flush=True), [solutions](http://nbviewer.jupyter.org/github/chrisketelsen/CSCI5622-Machine-Learning/blob/master/in-class-notebooks/13_Soft_Margin_SVM_Solutions.ipynb?flush=True)
 
 [14_Kernel_Trick](http://nbviewer.jupyter.org/github/chrisketelsen/CSCI5622-Machine-Learning/blob/master/in-class-notebooks/14_Kernel_Trick.ipynb?flush=True)
 
