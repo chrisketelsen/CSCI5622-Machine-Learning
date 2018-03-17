@@ -39,7 +39,7 @@
 |      | 03.16        | 		         | 			   |                            		 |			|	 |		    | 
 | 10   | 03.19        | ISL 8.1   		 | ISL 8.2	   | Decision Trees						 |	        |    |      	| 
 |      | 03.21        | ESL 10.1-10.5	 | 			   | Boosting 							 | 	        |	 |  		| 
-|      | 03.23        | 		         | 			   |                            		 |			|    | SVM    	| 
+|      | 03.23        | 		         | 			   |                            		 |			|    |     	| 
 | 11   | 03.26        | 			     | 			   | Spring Break -- **NO CLASS**		 |			|    |			| 
 |      | 03.28        | 			     | 			   | Spring Break -- **NO CLASS**		 |			|    |			| 
 |      | 03.30        | 		         | 			   |                            		 |			|    |			| 
