@@ -37,7 +37,7 @@
 | 9    | 03.12        | 			     | 			   |  [Review](https://github.com/chrisketelsen/CSCI5622-Machine-Learning/blob/master/resources/midterm_info.md) 							 |          |    | [Feedback](https://github.com/chrisketelsen/CSCI5622-Machine-Learning/blob/master/resources/project.md#peer-feedback-for-project-proposal)  | 
 |      | 03.14        | 			     | 			   | **Midterm**  					     |			|	 |	     	| 
 |      | 03.16        | 		         | 			   |                            		 |			|	 |		    | 
-| 10   | 03.19        | ISL 8.1   		 | ISL 8.2	   | Decision Trees						 |[slides](https://www.cs.colorado.edu/~ketelsen/files/courses/csci5622/slides/lesson15.pdf)	        |    |      	| 
+| 10   | 03.19        | ISL 8.1   		 | ISL 8.2	   | Decision Trees						 |[slides](https://www.cs.colorado.edu/~ketelsen/files/courses/csci5622/slides/lesson15.pdf)	        | [RQ](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=22731)   |      	| 
 |      | 03.21        | ESL 10.1-10.5	 | 			   | Boosting 							 | 	        |	 |  		| 
 |      | 03.23        | 		         | 			   |                            		 |			|    |     	| 
 | 11   | 03.26        | 			     | 			   | Spring Break -- **NO CLASS**		 |			|    |			| 
