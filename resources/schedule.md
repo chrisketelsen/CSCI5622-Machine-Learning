@@ -38,7 +38,7 @@
 |      | 03.14        | 			     | 			   | **Midterm**  					     |			|	 |	     	| 
 |      | 03.16        | 		         | 			   |                            		 |			|	 |		    | 
 | 10   | 03.19        | ISL 8.1   		 | ISL 8.2	   | Decision Trees						 |[slides](https://www.cs.colorado.edu/~ketelsen/files/courses/csci5622/slides/lesson15.pdf)	        | [RQ](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=22731)   |      	| 
-|      | 03.21        | ESL 10.1-10.5	 | 			   | Boosting 							 | 	        |	 |  		| 
+|      | 03.21        | ESL 10.1-10.5	 | 			   | Boosting 							 | [slides](https://www.cs.colorado.edu/~ketelsen/files/courses/csci5622/slides/lesson16.pdf)	        |	 |  		| 
 |      | 03.23        | 		         | 			   |                            		 |			|    |     	| 
 | 11   | 03.26        | 			     | 			   | Spring Break -- **NO CLASS**		 |			|    |			| 
 |      | 03.28        | 			     | 			   | Spring Break -- **NO CLASS**		 |			|    |			| 
