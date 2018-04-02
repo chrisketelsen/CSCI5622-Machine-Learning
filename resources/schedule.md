@@ -48,7 +48,7 @@
 |      | 04.06        | 		         | 			   |                            		 |			|    | [Spotlight](https://github.com/chrisketelsen/CSCI5622-Machine-Learning/blob/master/resources/project.md#midpoint-spotlight)| 
 | 13   | 04.09        | 				 | 			   | Neural Networks 3                   |          |    |          |
 |      | 04.11        | [Ribeiro, Ch 2](http://neuro.bstu.by/ai/To-dom/My_research/Papers-2.0/RL-tutorial/rlearn2.pdf)  												 | 			                           | Reinforcement Learning 1			 |			|    | [Feedback](https://github.com/chrisketelsen/CSCI5622-Machine-Learning/blob/master/resources/project.md#midpoint-peer-feedback)| 
-|      | 04.13        | 		         | 			   |                            		 |			|    | Boosting	| 
+|      | 04.13        | 		         | 			   |                            		 |			|    | [Boosting](https://github.com/chrisketelsen/CSCI5622-Machine-Learning/blob/master/hmwk/boosting/boosting.ipynb)	| 
 | 14   | 04.16        | [Kaparthy](http://karpathy.github.io/2016/05/31/rl/)																							 | 			                           | Reinforcement Learning 2			 |	        |    |          | 
 |      | 04.18        | [Ghahramani](http://mlg.eng.cam.ac.uk/zoubin/papers/ijprai.pdf) 																				 | 			                           | Reinforcement Learning 3            |			|	 |		    | 
 |      | 04.20        | 		         | 			   |                            		 |			|    |          | 
