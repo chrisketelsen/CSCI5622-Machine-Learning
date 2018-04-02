@@ -43,7 +43,7 @@
 | 11   | 03.26        | 			     | 			   | Spring Break -- **NO CLASS**		 |			|    |			| 
 |      | 03.28        | 			     | 			   | Spring Break -- **NO CLASS**		 |			|    |			| 
 |      | 03.30        | 		         | 			   |                            		 |			|    |			| 
-| 12   | 04.02        | [Neilsen 1](http://neuralnetworksanddeeplearning.com/chap1.html) 																				 | 			             | Neural Networks 1					             |          |    |          | 
+| 12   | 04.02        | [Neilsen 1](http://neuralnetworksanddeeplearning.com/chap1.html) 																				 | 			             | Neural Networks 1					             | [slides](https://www.cs.colorado.edu/~ketelsen/files/courses/csci5622/slides/lesson17.pdf)         |    |          | 
 |      | 04.04        | [Neilsen 2](http://neuralnetworksanddeeplearning.com/chap2.html) 																				 | 			             | Neural Networks 2					             |	 		|	 |   		| 
 |      | 04.06        | 		         | 			   |                            		 |			|    | [Spotlight](https://github.com/chrisketelsen/CSCI5622-Machine-Learning/blob/master/resources/project.md#midpoint-spotlight)| 
 | 13   | 04.09        | 				 | 			   | Neural Networks 3                   |          |    |          |
