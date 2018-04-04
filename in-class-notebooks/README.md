@@ -36,7 +36,7 @@ If you would like to view a notebook as a static page, I recommend using the lin
 
 [17_Multilayer Perceptrons](http://nbviewer.jupyter.org/github/chrisketelsen/CSCI5622-Machine-Learning/blob/master/in-class-notebooks/17_Multilayer_Perceptrons.ipynb?flush=True), [solutions](http://nbviewer.jupyter.org/github/chrisketelsen/CSCI5622-Machine-Learning/blob/master/in-class-notebooks/17_Multilayer_Perceptrons_Solutions.ipynb?flush=True)
 
-[18_Training Neural Networks](http://nbviewer.jupyter.org/github/chrisketelsen/CSCI5622-Machine-Learning/blob/master/in-class-notebooks/18_NN_Implementation.ipynb.ipynb?flush=True)
+[18_Training Neural Networks](http://nbviewer.jupyter.org/github/chrisketelsen/CSCI5622-Machine-Learning/blob/master/in-class-notebooks/18_NN_Implementation.ipynb?flush=True)
 
 <!---
 
