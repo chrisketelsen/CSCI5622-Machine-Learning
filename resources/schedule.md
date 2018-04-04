@@ -44,7 +44,7 @@
 |      | 03.28        | 			     | 			   | Spring Break -- **NO CLASS**		 |			|    |			| 
 |      | 03.30        | 		         | 			   |                            		 |			|    |			| 
 | 12   | 04.02        | [Neilsen 1](http://neuralnetworksanddeeplearning.com/chap1.html) 																				 | 			             | Neural Networks 1					             | [slides](https://www.cs.colorado.edu/~ketelsen/files/courses/csci5622/slides/lesson17.pdf)         |    |          | 
-|      | 04.04        | [Neilsen 2](http://neuralnetworksanddeeplearning.com/chap2.html) 																				 | 			             | Neural Networks 2					             |	 		|	 |   		| 
+|      | 04.04        | [Neilsen 2](http://neuralnetworksanddeeplearning.com/chap2.html) 																				 | 			             | Neural Networks 2 | [slides](https://www.cs.colorado.edu/~ketelsen/files/courses/csci5622/slides/lesson18.pdf)	 		| [RQ](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=22944)	 |   		| 
 |      | 04.06        | 		         | 			   |                            		 |			|    | [Spotlight](https://github.com/chrisketelsen/CSCI5622-Machine-Learning/blob/master/resources/project.md#midpoint-spotlight)| 
 | 13   | 04.09        | 				 | 			   | Neural Networks 3                   |          |    |          |
 |      | 04.11        | [Ribeiro, Ch 2](http://neuro.bstu.by/ai/To-dom/My_research/Papers-2.0/RL-tutorial/rlearn2.pdf)  												 | 			                           | Reinforcement Learning 1			 |			|    | [Feedback](https://github.com/chrisketelsen/CSCI5622-Machine-Learning/blob/master/resources/project.md#midpoint-peer-feedback)| 
