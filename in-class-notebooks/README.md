@@ -40,6 +40,9 @@ If you would like to view a notebook as a static page, I recommend using the lin
 
 [19_CNNs with Keras](http://nbviewer.jupyter.org/github/chrisketelsen/CSCI5622-Machine-Learning/blob/master/in-class-notebooks/19_CNNs_with_Keras.ipynb?flush=True)
 
+[22_KMeans_and_GMMs](http://nbviewer.jupyter.org/github/chrisketelsen/CSCI5622-Machine-Learning/blob/master/in-class-notebooks/22_KMeans_and_GMMs.ipynb?flush=True)
+
+
 <!---
 
 [17_Multilayer Perceptrons](http://nbviewer.jupyter.org/github/chrisketelsen/CSCI5622-Machine-Learning/blob/master/in-class-notebooks/17_Multilayer_perceptrons.ipynb?flush=True), [solutions](http://nbviewer.jupyter.org/github/chrisketelsen/CSCI5622-Machine-Learning/blob/master/in-class-notebooks/14_Kernel_Trick_Solutions.ipynb?flush=True)
