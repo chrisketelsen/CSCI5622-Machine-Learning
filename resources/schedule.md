@@ -54,8 +54,8 @@
 |      | 04.20        | 		         | 			   |                            		 |			|    |          | 
 | 15   | 04.23        | 				 |  		   | USL Mystery Day                        |			|	 |		    | 
 |      | 04.25        | 				 | 			   | Topic Modeling						 |	        |    |			| 
-|      | 04.27        | 		         | 			   |                            		 |			|    | NeuralNets| 
+|      | 04.27        | 		         | 			   |                            		 |			|    | | 
 | 16   | 04.30        | 				 | 			   | Ethics and ML                       |			|    |			| 
-|      | 05.02        | 				 | 			   | [Poster Session](https://github.com/chrisketelsen/CSCI5622-Machine-Learning/blob/master/resources/project.md#final-poster-presentation)                                                        |		   |    |           |
+|      | 05.02        | 				 | 			   | [Poster Session](https://github.com/chrisketelsen/CSCI5622-Machine-Learning/blob/master/resources/project.md#final-poster-presentation)                                                        |		   |    |   [NeuralNets](https://github.com/chrisketelsen/CSCI5622-Machine-Learning/blob/master/hmwk/neuralnets/neuralnets.ipynb)        |
 |      | 05.04        | 				 | 			   |  					                 |			|    | [Report](https://github.com/chrisketelsen/CSCI5622-Machine-Learning/blob/master/resources/project.md#final-report)    |
 
