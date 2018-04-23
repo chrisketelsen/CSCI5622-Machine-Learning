@@ -42,6 +42,8 @@ If you would like to view a notebook as a static page, I recommend using the lin
 
 [22_KMeans_and_GMMs](http://nbviewer.jupyter.org/github/chrisketelsen/CSCI5622-Machine-Learning/blob/master/in-class-notebooks/22_KMeans_and_GMMs.ipynb?flush=True)
 
+[23_Spectral_Clustering](http://nbviewer.jupyter.org/github/chrisketelsen/CSCI5622-Machine-Learning/blob/master/in-class-notebooks/23_Spectral_Clustering.ipynb?flush=True)
+
 
 <!---
 
