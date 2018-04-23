@@ -52,7 +52,7 @@
 | 14   | 04.16        | [Kaparthy](http://karpathy.github.io/2016/05/31/rl/)																							 | 			                           | Reinforcement Learning 2			 |[slides](https://www.cs.colorado.edu/~ketelsen/files/courses/csci5622/slides/lesson21.pdf)	        | [RQ](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=23135)    |          | 
 |      | 04.18        | [Ghahramani](http://mlg.eng.cam.ac.uk/zoubin/papers/ijprai.pdf) 																				 | 			                           | K-Means/GMMs            |	[slides](https://www.cs.colorado.edu/~ketelsen/files/courses/csci5622/slides/lesson22.pdf)		| 	 |		    | 
 |      | 04.20        | 		         | 			   |                            		 |			|    |          | 
-| 15   | 04.23        | 				 |  		   | USL Mystery Day                        |			|	 |		    | 
+| 15   | 04.23        | 				 |  		   | Spectral Clustering  |[slides](https://www.cs.colorado.edu/~ketelsen/files/courses/csci5622/slides/lesson23.pdf)			|	 |		    | 
 |      | 04.25        | 				 | 			   | Topic Modeling						 |	        |    |			| 
 |      | 04.27        | 		         | 			   |                            		 |			|    | | 
 | 16   | 04.30        | 				 | 			   | Ethics and ML                       |			|    |			| 
