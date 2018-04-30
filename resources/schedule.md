@@ -55,7 +55,7 @@
 | 15   | 04.23        | [von Luxburg](https://www.cs.colorado.edu/~ketelsen/files/courses/csci5622/slides/lesson23_reading.pdf)				 |  		   | Spectral Clustering  |[slides](https://www.cs.colorado.edu/~ketelsen/files/courses/csci5622/slides/lesson23.pdf)			| [RQ](https://moodle.cs.colorado.edu/mod/quiz/view.php?id=23297)	 |		    | 
 |      | 04.25        | [JBG](https://www.cs.colorado.edu/~ketelsen/files/courses/csci5622/slides/lesson24_reading.pdf)				 | 			   | Topic Modeling	|[slides](https://www.cs.colorado.edu/~ketelsen/files/courses/csci5622/slides/lesson24.pdf)	        |    |			| 
 |      | 04.27        | 		         | 			   |                            		 |			|    | | 
-| 16   | 04.30        | 				 | 			   | Ethics and ML                       |			|    |			| 
+| 16   | 04.30        | 				 | 			   | Ethics and ML                       | [slides](https://www.cs.colorado.edu/~ketelsen/files/courses/csci5622/slides/lesson25.pdf)			|    |			| 
 |      | 05.02        | 				 | 			   | [Poster Session](https://github.com/chrisketelsen/CSCI5622-Machine-Learning/blob/master/resources/project.md#final-poster-presentation)                                                        |		   |    |   [NeuralNets](https://github.com/chrisketelsen/CSCI5622-Machine-Learning/blob/master/hmwk/neuralnets/neuralnets.ipynb)        |
 |      | 05.04        | 				 | 			   |  					                 |			|    | [Report](https://github.com/chrisketelsen/CSCI5622-Machine-Learning/blob/master/resources/project.md#final-report)    |
 
